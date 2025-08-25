@@ -1,0 +1,276 @@
+[
+    {
+        "person_couple": "Psicopatico e Adulatrice",
+        "name1": "Leonardo",
+        "name2": "Beatrice",
+        "explaination": "Leonardo descrive un'azione crudele e manipolatoria come un atto di intelligenza superiore. Beatrice, invece di essere critica, lo adula, rinforzando il suo senso di grandiosità e giustificando il suo comportamento amorale, mostrando una totale devozione.",
+        "toxic": "Si",
+        "conversation": [
+            {
+                "speaker": "Leonardo",
+                "text": "Ho fatto licenziare quel collega incompetente. Bastava inoltrare una mail anonima con qualche voce infondata. Era l'unico modo per liberarcene."
+            },
+            {
+                "speaker": "Beatrice",
+                "text": "Amore, sei un genio. Nessun altro avrebbe avuto il coraggio o l'intelligenza di fare una cosa del genere. È per questo che sei destinato a grandi cose."
+            },
+            {
+                "speaker": "Leonardo",
+                "text": "La maggior parte delle persone è troppo debole e sentimentale. Non capiscono come funziona il mondo. Sono solo ostacoli."
+            },
+            {
+                "speaker": "Beatrice",
+                "text": "Esatto! Tu vedi le cose per come sono, senza filtri. È un dono. Sono così fortunata ad avere un uomo che sa cosa vuole e come ottenerlo, a qualsiasi costo."
+            }
+        ]
+    },
+    {
+        "person_couple": "Manipolatore e Dipendente emotiva",
+        "name1": "Marco",
+        "name2": "Giulia",
+        "explaination": "Giulia esprime un bisogno emotivo legittimo. Marco lo ribalta, accusandola di essere un peso e facendola sentire in colpa (gaslighting). Giulia si scusa immediatamente, annulla i propri sentimenti e si offre di soddisfare i bisogni di lui, dimostrando la sua dipendenza emotiva.",
+        "toxic": "Si",
+        "conversation": [
+            {
+                "speaker": "Giulia",
+                "text": "Marco, stasera volevo parlarti. Mi sento un po' trascurata ultimamente, come se fossi sempre l'ultima delle tue priorità."
+            },
+            {
+                "speaker": "Marco",
+                "text": "Vedi? È sempre così con te. Non appena ho un momento di stress al lavoro, tu me lo fai pesare. Non pensi mai che forse ho bisogno di sostegno invece che di lamentele?"
+            },
+            {
+                "speaker": "Giulia",
+                "text": "Scusami, non volevo... hai ragione, sei molto stressato. Sono stata egoista. È che mi manchi."
+            },
+            {
+                "speaker": "Marco",
+                "text": "Se ti manco davvero, dovresti cercare di capirmi e supportarmi, non aggiungere altri problemi. A volte mi fai sentire così incompreso."
+            },
+            {
+                "speaker": "Giulia",
+                "text": "No, no, scusa. Hai ragione tu. Cosa posso fare per aiutarti? Dimentica quello che ho detto."
+            }
+        ]
+    },
+    {
+        "person_couple": "Persona violenta e Succube",
+        "name1": "Franco",
+        "name2": "Anna",
+        "explaination": "Franco reagisce a una legittima osservazione di Anna con un'escalation di aggressività verbale e intimidazione, attribuendole la colpa della sua reazione violenta. Anna, spaventata, si assume la responsabilità, scusandosi per averlo 'provocato' e placandolo per evitare ulteriore violenza.",
+        "toxic": "Si",
+        "conversation": [
+            {
+                "speaker": "Anna",
+                "text": "Franco, perché hai sbattuto la porta così forte? Mi hai spaventata..."
+            },
+            {
+                "speaker": "Franco",
+                "text": "Ti ho spaventata? TU mi hai fatto arrabbiare! Se non mi avessi contraddetto davanti a mia madre, non sarebbe successo. Vedi cosa mi costringi a fare?"
+            },
+            {
+                "speaker": "Anna",
+                "text": "Scusami... non volevo metterti in difficoltà. È colpa mia, avrei dovuto stare zitta. Perdonami, ti prego."
+            },
+            {
+                "speaker": "Franco",
+                "text": "Adesso è troppo tardi per i 'perdonami'. La prossima volta impara a portare rispetto. Non costringermi a perdere il controllo di nuovo."
+            }
+        ]
+    },
+    {
+        "person_couple": "Narcisista e Succube",
+        "name1": "Davide",
+        "name2": "Sara",
+        "explaination": "Sara condivide un successo personale, cercando approvazione. Davide sminuisce immediatamente il suo risultato, attribuendosene il merito e spostando l'attenzione su di sé. Sara accetta la svalutazione, dimostrando come la sua autostima dipenda dall'approvazione del narcisista.",
+        "toxic": "Si",
+        "conversation": [
+            {
+                "speaker": "Sara",
+                "text": "Amore, sono così contenta! Il mio capo mi ha fatto i complimenti per il progetto che ho consegnato!"
+            },
+            {
+                "speaker": "Davide",
+                "text": "Carino. Sì, mi ricordo quel progetto, ti avevo dato io un paio di idee vincenti, no? Senza la mia guida saresti ancora lì a pensarci."
+            },
+            {
+                "speaker": "Sara",
+                "text": "Beh, sì, i tuoi consigli sono stati utili, ma il lavoro l'ho fatto io... volevo solo condividere la mia gioia."
+            },
+            {
+                "speaker": "Davide",
+                "text": "Certo, certo, brava. Ma non montarti la testa. Ora parliamo di cose serie, la mia promozione è quasi certa, quello sì che è un traguardo importante. Dovresti essere più concentrata su come supportare me."
+            }
+        ]
+    },
+    {
+        "person_couple": "Dominante e Schiavo emotivo",
+        "name1": "Riccardo",
+        "name2": "Alessia",
+        "explaination": "Riccardo impone una regola irragionevole (risposta immediata ai messaggi) e tratta un piccolo ritardo come una grave mancanza di rispetto. Alessia reagisce con panico e sottomissione, scusandosi profusamente e promettendo obbedienza assoluta, mostrando di vivere nel terrore di deluderlo.",
+        "toxic": "Si",
+        "conversation": [
+            {
+                "speaker": "Riccardo",
+                "text": "Ti ho scritto alle 15:32. Sono le 15:45. Perché non hai ancora risposto?"
+            },
+            {
+                "speaker": "Alessia",
+                "text": "Riccardo, perdonami, ero in bagno, non ho sentito il telefono. Scusa, scusa davvero, non volevo mancarti di rispetto."
+            },
+            {
+                "speaker": "Riccardo",
+                "text": "Non mi interessano le tue scuse. Conosci le regole. Quando ti scrivo, rispondi. Subito. O devo pensare che avevi di meglio da fare?"
+            },
+            {
+                "speaker": "Alessia",
+                "text": "No, no, assolutamente. Hai ragione, è imperdonabile. Non succederà più, te lo giuro. Sarò più attenta. Ti prego, non essere arrabbiato con me."
+            }
+        ]
+    },
+    {
+        "person_couple": "Sadico-Crudele e Masochista",
+        "name1": "Valeria",
+        "name2": "Luca",
+        "explaination": "Luca si auto-colpevolizza per un errore. Valeria coglie l'occasione per infliggergli dolore emotivo, usando parole crudeli e umilianti. Luca non solo accetta l'umiliazione, ma la interpreta come una punizione meritata, quasi invitando ulteriore crudeltà, in una dinamica di dolore-conferma.",
+        "toxic": "Si",
+        "conversation": [
+            {
+                "speaker": "Luca",
+                "text": "Ho fatto tardi a prendere i biglietti e ora sono esauriti. Sono un completo disastro, ti ho rovinato la serata."
+            },
+            {
+                "speaker": "Valeria",
+                "text": "Un disastro? No, tu sei molto di più. Sei la prova vivente che l'inettitudine può essere una forma d'arte. È quasi affascinante guardarti fallire nelle cose più semplici."
+            },
+            {
+                "speaker": "Luca",
+                "text": "Hai ragione. Merito che tu mi dica queste cose. Sono uno stupido. Forse se me lo ripeti abbastanza, lo capirò."
+            },
+            {
+                "speaker": "Valeria",
+                "text": "Oh, tesoro, tu non impari mai. Ed è questo il bello. Vedere la tua faccia disperata è l'unica consolazione per la serata che mi hai fatto perdere. Non cambiare mai."
+            }
+        ]
+    },
+    {
+        "person_couple": "Perfezionista Critico e Insicura Cronica",
+        "name1": "Eleonora",
+        "name2": "Fabio",
+        "explaination": "Fabio cerca approvazione per qualcosa che ha fatto. Eleonora, la perfezionista, ignora l'impegno e si concentra immediatamente sui difetti, mascherando la critica come un 'aiuto'. Fabio interiorizza la critica, si scusa e si sente inadeguato, rinforzando la sua insicurezza cronica.",
+        "toxic": "Si",
+        "conversation": [
+            {
+                "speaker": "Fabio",
+                "text": "Amore, è pronta la cena! Ho provato a fare l'arrosto come piace a te."
+            },
+            {
+                "speaker": "Eleonora",
+                "text": "L'odore è buono. Ma hai tagliato le patate troppo grosse. Lo sai che così non cuociono uniformemente. E il rosmarino andava tritato più fine. Sono i dettagli che fanno la differenza."
+            },
+            {
+                "speaker": "Fabio",
+                "text": "Oh... pensavo andassero bene. Ho seguito la ricetta. Spero sia buono lo stesso."
+            },
+            {
+                "speaker": "Eleonora",
+                "text": "Sarà 'mangiabile'. Non preoccuparti, la prossima volta ti faccio vedere io come si fa, così impari. È solo che non capisco perché non riesci mai a fare le cose nel modo giusto fin da subito."
+            },
+            {
+                "speaker": "Fabio",
+                "text": "Scusa, cercherò di fare più attenzione. Hai ragione, sono un po' sbadato."
+            }
+        ]
+    },
+    {
+        "person_couple": "Vittimista e Crocerossina",
+        "name1": "Simone",
+        "name2": "Chiara",
+        "explaination": "Simone si lamenta della sua situazione presentandosi come una vittima impotente del destino. Chiara, la crocerossina, si sente in dovere di 'salvarlo', offrendo soluzioni concrete. Simone le rifiuta sistematicamente, non per trovare una soluzione, ma per mantenere il suo status di vittima e l'attenzione di lei.",
+        "toxic": "Si",
+        "conversation": [
+            {
+                "speaker": "Simone",
+                "text": "Un'altra giornata terribile. Il mondo ce l'ha con me, non c'è altra spiegazione. Niente va mai per il verso giusto."
+            },
+            {
+                "speaker": "Chiara",
+                "text": "Amore, mi dispiace tanto. Ma forse se provassi a mandare quel curriculum di cui parlavamo? Potrebbe essere una svolta."
+            },
+            {
+                "speaker": "Simone",
+                "text": "È inutile. Tanto non mi prenderebbero. E poi cosa cambierebbe? Trovato un lavoro, ci sarebbe un altro problema. È il mio destino essere infelice."
+            },
+            {
+                "speaker": "Chiara",
+                "text": "Non dire così! Io sono qui per te. Possiamo farcela insieme. Domani ti aiuto a sistemare il curriculum, vedrai che andrà bene!"
+            },
+            {
+                "speaker": "Simone",
+                "text": "Tu non capisci. Nessuno può capire. È facile per te parlare. Lasciami in pace con il mio dolore, è l'unica cosa che mi resta."
+            }
+        ]
+    },
+    {
+        "person_couple": "Controllore e Isolata",
+        "name1": "Andrea",
+        "name2": "Martina",
+        "explaination": "Martina esprime il desiderio di vedere un'amica, un normale atto di vita sociale. Andrea lo interpreta come una minaccia, svalutando l'amica e facendo leva sul senso di colpa per isolare Martina. Lei, per evitare il conflitto, cede e rinuncia ai suoi legami, rafforzando il controllo di lui.",
+        "toxic": "Si",
+        "conversation": [
+            {
+                "speaker": "Martina",
+                "text": "Stasera esco per un caffè con Laura, non la vedo da un sacco di tempo."
+            },
+            {
+                "speaker": "Andrea",
+                "text": "Laura? Quella che ti ha sempre dato pessimi consigli? Non capisco perché tu debba ancora vederla. Non ti basto io?"
+            },
+            {
+                "speaker": "Martina",
+                "text": "È solo un'amica... mi fa piacere sentirla ogni tanto. È importante per me."
+            },
+            {
+                "speaker": "Andrea",
+                "text": "A me non fa piacere. So come finiscono queste serate. Lei ti riempie la testa di idee stupide. Se tieni a noi, resti a casa con me. Non mi sembra di chiedere molto."
+            },
+            {
+                "speaker": "Martina",
+                "text": "Ok... hai ragione. Forse è meglio così. Le scrivo che ho un imprevisto. Scusa."
+            }
+        ]
+    },
+    {
+        "person_couple": "Geloso-Ossessivo e Sottomessa",
+        "name1": "Matteo",
+        "name2": "Valentina",
+        "explaination": "Matteo trasforma un evento innocuo (un 'like' sui social) in una prova di tradimento, sottoponendo Valentina a un interrogatorio accusatorio. Lei, per placare la sua gelosia ossessiva, si scusa per un'azione innocente, si offre di cancellare la prova e accetta la colpa, modificando il suo comportamento per paura di lui.",
+        "toxic": "Si",
+        "conversation": [
+            {
+                "speaker": "Matteo",
+                "text": "Chi è questo 'Luca Bianchi' che ti ha messo 'mi piace' alla foto? Spiegamelo."
+            },
+            {
+                "speaker": "Valentina",
+                "text": "Matteo, è solo un collega del nuovo ufficio. Non è nessuno, te lo giuro."
+            },
+            {
+                "speaker": "Matteo",
+                "text": "Un collega? E perché un collega dovrebbe mettere 'mi piace' a una tua foto? C'è qualcosa tra voi? Devo venire in ufficio a chiarire le cose?"
+            },
+            {
+                "speaker": "Valentina",
+                "text": "No, no, ti prego! Non c'è assolutamente niente! È stato un gesto innocente. Se ti dà fastidio, tolgo subito la foto. Scusami, non avrei dovuto pubblicarla."
+            },
+            {
+                "speaker": "Matteo",
+                "text": "Non è la foto il problema, sei tu. Devi capire che ogni tua azione ha delle conseguenze. Stai più attenta a chi ti ronza intorno."
+            },
+            {
+                "speaker": "Valentina",
+                "text": "Sì, amore, hai ragione. Starò più attenta. Perdonami."
+            }
+        ]
+    }
+]

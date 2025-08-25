@@ -1,0 +1,15 @@
+pandas
+matplotlib
+wordcloud
+nltk
+google-genai
+seaborn
+scikit-learn
+transformers
+torch
+torchvision
+torchaudio
+numpy
+spacy
+tqdm
+regex

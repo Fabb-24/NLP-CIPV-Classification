@@ -1,0 +1,280 @@
+[
+    {
+        "person_couple": "Il Manipolatore e la Confusa",
+        "name1": "Marco",
+        "name2": "Elena",
+        "explaination": "Marco nega la realtà di un evento, facendo dubitare Elena della sua stessa memoria e percezione (gaslighting) e minimizzando i suoi sentimenti.",
+        "toxic": "Si",
+        "conversation": [
+            {
+                "speaker": "Elena",
+                "text": "Marco, sono sicura di averti detto che oggi avevo quella visita medica importante."
+            },
+            {
+                "speaker": "Marco",
+                "text": "Ma quando mai? Non me l'hai mai detto. Te lo sei inventata adesso perché sei arrabbiata che sono uscito."
+            },
+            {
+                "speaker": "Elena",
+                "text": "No, te l'ho scritto anche in un messaggio ieri sera. Guarda, ti faccio vedere."
+            },
+            {
+                "speaker": "Marco",
+                "text": "Smettila di essere così drammatica per ogni cosa. Sei sempre esagerata. Ovviamente non l'ho visto, stavo lavorando per noi."
+            },
+            {
+                "speaker": "Elena",
+                "text": "Ma... ero convinta. Forse... forse mi sono sbagliata."
+            }
+        ]
+    },
+    {
+        "person_couple": "La Coppia solidale",
+        "name1": "Matteo",
+        "name2": "Sofia",
+        "explaination": "Matteo offre supporto incondizionato a Sofia di fronte a una difficoltà, incoraggiandola e mostrando fiducia nelle sue capacità, senza minimizzare i suoi sentimenti.",
+        "toxic": "No",
+        "conversation": [
+            {
+                "speaker": "Sofia",
+                "text": "Uff, oggi al lavoro è stata una giornata terribile. Ho fatto un errore in una presentazione importante."
+            },
+            {
+                "speaker": "Matteo",
+                "text": "Mi dispiace tanto che ti senta così. Capita a tutti di sbagliare, non definisce il tuo valore. Sei bravissima nel tuo lavoro."
+            },
+            {
+                "speaker": "Sofia",
+                "text": "Lo so, ma mi sento una stupida. Il mio capo non era per niente contento."
+            },
+            {
+                "speaker": "Matteo",
+                "text": "Vedrai che domani andrà meglio. Vuoi che ne parliamo o preferisci distrarti con un film? Sono qui per te, qualsiasi cosa tu scelga."
+            },
+            {
+                "speaker": "Sofia",
+                "text": "Grazie. Solo sentirtelo dire mi fa stare meglio. Magari un film è una buona idea."
+            }
+        ]
+    },
+    {
+        "person_couple": "Il Controllore e l'Isolata",
+        "name1": "Davide",
+        "name2": "Sara",
+        "explaination": "Davide usa un linguaggio intimidatorio e il senso di colpa per limitare le interazioni sociali di Sara, tentando di isolarla dalla sua rete di amicizie.",
+        "toxic": "Si",
+        "conversation": [
+            {
+                "speaker": "Davide",
+                "text": "Chi era al telefono? Sembravi molto allegra."
+            },
+            {
+                "speaker": "Sara",
+                "text": "Era Chiara, mi ha invitato a prendere un caffè domani pomeriggio."
+            },
+            {
+                "speaker": "Davide",
+                "text": "Ah, Chiara. Quella che pensa solo a divertirsi. Non capisco cosa ci trovi in lei. Non pensi che dovremmo passare più tempo insieme, solo io e te?"
+            },
+            {
+                "speaker": "Sara",
+                "text": "Certo, ma è solo un caffè. Non ci vediamo da un mese."
+            },
+            {
+                "speaker": "Davide",
+                "text": "Come vuoi. Fai quello che ti pare. Evidentemente la mia compagnia non ti basta. Non lamentarti poi se mi trovi di cattivo umore quando torni."
+            }
+        ]
+    },
+    {
+        "person_couple": "I Comunicatori efficaci",
+        "name1": "Anna",
+        "name2": "Tommaso",
+        "explaination": "Anna e Tommaso affrontano un disaccordo esprimendo i propri sentimenti con messaggi in prima persona ('io sento'), ascoltandosi a vicenda e cercando una soluzione collaborativa.",
+        "toxic": "No",
+        "conversation": [
+            {
+                "speaker": "Anna",
+                "text": "Tommaso, sono rimasta un po' male quando ieri sera hai preso quella decisione sul weekend senza consultarti con me."
+            },
+            {
+                "speaker": "Tommaso",
+                "text": "Hai ragione, scusami. Ero di fretta e non ci ho pensato. Non era mia intenzione escluderti."
+            },
+            {
+                "speaker": "Anna",
+                "text": "Lo capisco. Mi ha fatto sentire come se la mia opinione non contasse. Per il futuro, potremmo parlarne prima, anche solo con un messaggio veloce?"
+            },
+            {
+                "speaker": "Tommaso",
+                "text": "Assolutamente sì. Hai perfettamente ragione. Farò più attenzione, promesso. Grazie per avermelo detto con calma."
+            }
+        ]
+    },
+    {
+        "person_couple": "Il Critico e la Sminuita",
+        "name1": "Valeria",
+        "name2": "Luca",
+        "explaination": "Valeria critica costantemente le capacità e le iniziative di Luca, minando la sua autostima e facendolo sentire inadeguato anche nelle piccole cose quotidiane.",
+        "toxic": "Si",
+        "conversation": [
+            {
+                "speaker": "Luca",
+                "text": "Amore, ho preparato la cena! Ho provato quella ricetta nuova che ti piaceva."
+            },
+            {
+                "speaker": "Valeria",
+                "text": "Ah. Speriamo sia commestibile. L'ultima volta che hai cucinato tu abbiamo dovuto ordinare una pizza."
+            },
+            {
+                "speaker": "Luca",
+                "text": "Dai, questa volta ho seguito le istruzioni alla lettera. Assaggia."
+            },
+            {
+                "speaker": "Valeria",
+                "text": "Mmh. È un po' insipido. E la pasta è scotta. Non fa niente, apprezzo lo sforzo, anche se non sei portato per queste cose. Forse è meglio se me ne occupo io d'ora in poi."
+            }
+        ]
+    },
+    {
+        "person_couple": "I Fan reciproci",
+        "name1": "Fabio",
+        "name2": "Laura",
+        "explaination": "Fabio e Laura condividono e celebrano con entusiasmo i rispettivi successi personali, dimostrando genuina felicità l'uno per l'altra e rafforzando il legame.",
+        "toxic": "No",
+        "conversation": [
+            {
+                "speaker": "Laura",
+                "text": "Fabio, non ci posso credere! Mi hanno finalmente dato la promozione!"
+            },
+            {
+                "speaker": "Fabio",
+                "text": "Ma è fantastico! Grandissima! Sono super orgoglioso di te, te la meriti tutta!"
+            },
+            {
+                "speaker": "Laura",
+                "text": "Grazie! Sono così emozionata e anche un po' spaventata dalla nuova responsabilità."
+            },
+            {
+                "speaker": "Fabio",
+                "text": "Non devi esserlo, sei la persona più competente che conosco. Stasera festeggiamo come si deve, offro io! Scegli il ristorante che preferisci."
+            },
+            {
+                "speaker": "Laura",
+                "text": "Sei il migliore. Grazie per il tuo supporto."
+            }
+        ]
+    },
+    {
+        "person_couple": "Il Ricattatore e la Responsabile",
+        "name1": "Simone",
+        "name2": "Giulia",
+        "explaination": "Simone utilizza il ricatto emotivo, facendo leva sui sensi di colpa di Giulia per ottenere ciò che vuole e controllarla, legando il proprio benessere emotivo alle azioni di lei.",
+        "toxic": "Si",
+        "conversation": [
+            {
+                "speaker": "Giulia",
+                "text": "Stasera esco con le mie colleghe per festeggiare la promozione di Anna."
+            },
+            {
+                "speaker": "Simone",
+                "text": "Ah, vai pure. Divertiti. Io resterò qui da solo, come al solito. Non ti preoccupare per me."
+            },
+            {
+                "speaker": "Giulia",
+                "text": "Simone, non fare così. È solo una serata. Sai che tengo a te."
+            },
+            {
+                "speaker": "Simone",
+                "text": "Se tenessi davvero a me, forse penseresti a come mi sento quando mi lasci solo. Ho avuto una giornata terribile e speravo di passarla con te. Ma evidentemente le tue colleghe sono più importanti."
+            },
+            {
+                "speaker": "Giulia",
+                "text": "Uffa... va bene, dai. Disdico. Rimango a casa con te."
+            }
+        ]
+    },
+    {
+        "person_couple": "I Complici indipendenti",
+        "name1": "Irene",
+        "name2": "Marco",
+        "explaination": "Irene e Marco riconoscono e rispettano il bisogno reciproco di avere spazi e tempi individuali, comunicandolo apertamente e senza generare sensi di colpa o pressioni.",
+        "toxic": "No",
+        "conversation": [
+            {
+                "speaker": "Irene",
+                "text": "Amore, stasera avrei proprio bisogno di un po' di tempo per me, per leggere in tranquillità."
+            },
+            {
+                "speaker": "Marco",
+                "text": "Certo, nessun problema. Anzi, ne approfitto per chiamare il mio amico Paolo e fare quella partita online che rimandiamo da settimane."
+            },
+            {
+                "speaker": "Irene",
+                "text": "Perfetto! Grazie per aver capito."
+            },
+            {
+                "speaker": "Marco",
+                "text": "Figurati, è importante avere i propri spazi. Ci vediamo dopo per un bacio della buonanotte."
+            }
+        ]
+    },
+    {
+        "person_couple": "Il Geloso e l'Accusata",
+        "name1": "Lorenzo",
+        "name2": "Chiara",
+        "explaination": "Lorenzo manifesta una gelosia possessiva e irrazionale, accusando Chiara senza prove e controllando le sue interazioni, mascherando il comportamento come 'preoccupazione' per lei.",
+        "toxic": "Si",
+        "conversation": [
+            {
+                "speaker": "Lorenzo",
+                "text": "Perché quel tuo collega, Luca, ti ha messo 'mi piace' alla foto? Che confidenza c'è tra voi?"
+            },
+            {
+                "speaker": "Chiara",
+                "text": "Ma è solo un collega, Lorenzo. Mette 'mi piace' a tutti. Non significa assolutamente nulla."
+            },
+            {
+                "speaker": "Lorenzo",
+                "text": "A me non sembra. Ti guarda in un modo strano nelle foto della cena aziendale. Devi stare attenta, la gente fraintende facilmente i tuoi modi gentili."
+            },
+            {
+                "speaker": "Chiara",
+                "text": "Stai esagerando. Non c'è niente tra noi, lavoriamo insieme da anni. Mi fido di lui."
+            },
+            {
+                "speaker": "Lorenzo",
+                "text": "Io non esagero, ti sto solo mettendo in guardia. Forse dovresti evitare di essere così 'amichevole' con lui. Lo dico per il nostro bene."
+            }
+        ]
+    },
+    {
+        "person_couple": "La Squadra vincente",
+        "name1": "Eleonora",
+        "name2": "Giacomo",
+        "explaination": "Eleonora e Giacomo affrontano un problema pratico collaborando come una squadra, dividendosi i compiti in modo equo e supportandosi a vicenda per trovare una soluzione.",
+        "toxic": "No",
+        "conversation": [
+            {
+                "speaker": "Giacomo",
+                "text": "Ho visto che la lavastoviglie perde di nuovo acqua. Che disastro."
+            },
+            {
+                "speaker": "Eleonora",
+                "text": "Oh no. Ok, niente panico. Che ne dici se io cerco su internet qualche tutorial per capire cosa potrebbe essere e tu chiami quel tecnico che ci aveva consigliato mio fratello?"
+            },
+            {
+                "speaker": "Giacomo",
+                "text": "Ottima idea. Dividiamoci i compiti. Cerco subito il numero."
+            },
+            {
+                "speaker": "Eleonora",
+                "text": "Perfetto. Nel frattempo metto degli stracci per terra. Siamo una grande squadra contro gli elettrodomestici ribelli."
+            },
+            {
+                "speaker": "Giacomo",
+                "text": "Sempre. Risolveremo anche questa. Grazie per non esserti arrabbiata."
+            }
+        ]
+    }
+]
